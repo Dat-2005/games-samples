@@ -5,10 +5,10 @@ AGDKTunnel is derived from the NDK sample Endless Tunnel.
 
 AGDKTunnel uses the following AGDK libraries:
 
-* Frame Pacing
-* GameActivity
-* GameController
-* GameTextInput
+* Frame Pacing 120
+* GameActivity 120
+* GameController 120
+* GameTextInput 120
 * Oboe
 
 AGDKTunnel can optionally use the following Play libraries:
@@ -101,6 +101,9 @@ For the Google Play Games for PC variant in debug:
 ```
 
 For more information see the codelab: [Using Play Asset Delivery in native games](https://developer.android.com/codelabs/native-gamepad#0)
+![1000014706](https://github.com/user-attachments/assets/ed4275b0-657b-4926-acc1-26c4d98c1a42)
+![1000014707](https://github.com/user-attachments/assets/c74c2f06-b32d-4c37-a716-2515ea52a82e)
+![1000014706](https://github.com/user-attachments/assets/79dcc208-ddec-472e-83fa-fb6ca35c37fa)
 
 ## Version history
 
